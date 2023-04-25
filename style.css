@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+
+body {
+  background-image: url('https://cdn.pixabay.com/photo/2016/06/20/13/44/paper-1468883_1280.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Caveat', cursive;
+}
+
+.bg-img {
+  background-image: url('https://cdn.pixabay.com/photo/2013/07/25/13/01/stones-167089_1280.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: fit-content !important;
+}
